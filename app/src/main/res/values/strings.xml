@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleWebBorwser</string>
+    <string name="but_move"> 이동</string>
+    <string name="but_pre">이전 </string>
 </resources>
