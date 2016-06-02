@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleWebBorwser</string>
+    <string name="app_name">홈페이지 왔다리 갔다리</string>
     <string name="but_move"> 이동</string>
-    <string name="but_pre">이전 </string>
+    <string name="but_prev"> 이전 </string>
 </resources>
